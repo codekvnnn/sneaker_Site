@@ -1,0 +1,7 @@
+.sneaker-card {
+    transition: transform 0.3s ease;
+}
+
+.sneaker-card:hover {
+    transform: translateY(-10px);
+}
